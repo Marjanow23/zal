@@ -1,0 +1,14 @@
+5704a00 (HEAD -> deathedHeadBranch) HEAD@{0}: checkout: moving from 5704a00da20611e8fbe22a31d1fa39810e707a5c to deathedHeadBranch
+5704a00 (HEAD -> deathedHeadBranch) HEAD@{1}: checkout: moving from main to 5704a
+306f3df (origin/main, origin/HEAD, main) HEAD@{2}: pull origin main: Fast-forward
+3a2bbfc HEAD@{3}: checkout: moving from texts to main
+630294b (tag: v1.1, origin/texts, texts) HEAD@{4}: commit: Kant rozprawa
+5704a00 (HEAD -> deathedHeadBranch) HEAD@{5}: commit: Lorem ipsum
+3a2bbfc HEAD@{6}: checkout: moving from main to texts
+3a2bbfc HEAD@{7}: pull origin main: Fast-forward
+cda1111 HEAD@{8}: checkout: moving from personal_details to main
+d7923d6 (tag: v1.0, origin/personal_details, personal_details) HEAD@{9}: commit: E-mail adress
+4b22b5d HEAD@{10}: commit: Index number
+82f66d7 HEAD@{11}: commit: First name and last name
+cda1111 HEAD@{12}: checkout: moving from main to personal_details
+cda1111 HEAD@{13}: clone: from https://github.com/Marjanow23/zal.git
